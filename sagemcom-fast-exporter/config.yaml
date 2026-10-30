@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
 name: Sagemcom Fast Exporter
-version: v0.0.11
+version: v0.0.12
 slug: sagemcom_fast_exporter
 description: Unofficial stats exporter
 url: "https://github.com/erka/ha-sagemcom-fast-exporter-addon/tree/main/sagemcom-fast-exporter"
